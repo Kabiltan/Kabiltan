@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kabiltan
 - 👀 I’m interested in backend and frontend development
 - 🌱 I’m currently learning MySQL
-- 💞️ I’m looking to collaborate on small website projects
 - 📫 How to reach me: Email: kabiltan16@gmail.com
 
 <!---
